@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[itl:home|Door43 (itl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-itl|d43-itl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-itl/archive/master.zip|d43-itl.zip]]
+
+**Recent Changes**
+{{changes>ns = itl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/itl|Ethnologue data]]
+
